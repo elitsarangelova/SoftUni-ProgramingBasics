@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidArea", "TrapezoidArea\TrapezoidArea.csproj", "{DFFEE3BF-7143-4A30-BEC4-F474E6595D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleArea", "TriangleArea\TriangleArea.csproj", "{D44E318E-A66C-4FAE-9E36-175CF959859B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFEE3BF-7143-4A30-BEC4-F474E6595D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFEE3BF-7143-4A30-BEC4-F474E6595D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFEE3BF-7143-4A30-BEC4-F474E6595D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFEE3BF-7143-4A30-BEC4-F474E6595D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44E318E-A66C-4FAE-9E36-175CF959859B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44E318E-A66C-4FAE-9E36-175CF959859B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44E318E-A66C-4FAE-9E36-175CF959859B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44E318E-A66C-4FAE-9E36-175CF959859B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
