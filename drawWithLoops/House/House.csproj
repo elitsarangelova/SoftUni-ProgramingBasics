@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3900A88A-F08F-40AE-8DE6-BF1A9D99B4F4}</ProjectGuid>
+    <ProjectGuid>{77FE1A53-2CDF-4963-8578-B98D26DC8829}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>videoTest</RootNamespace>
-    <AssemblyName>videoTest</AssemblyName>
+    <RootNamespace>House</RootNamespace>
+    <AssemblyName>House</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
